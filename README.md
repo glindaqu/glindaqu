@@ -1,7 +1,7 @@
 # Hi there 👋
-### My name is Vladislav, and I web-developer from Novosibirsk
-### Currently I'm learning React.js
+### My name is Vladislav, and I Game Developer from Novosibirsk
+### Currently I'm learning Unity
 ### How to contact with me? Just send email on vlad1sup@yandex.com!
 
 ## My skills:
-### MYSQL | PHP | C# | JAVASCRIPT
+### MYSQL | PHP | C# | JAVASCRIPT | UNITY
