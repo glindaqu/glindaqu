@@ -1,6 +1,6 @@
 # Hi there 👋
 ### My name is Vladislav, and I Android Developer from Novosibirsk
-### Currently, I'm learning Android development
+### Currently, I'm learning Jetpack Compose
 ### How to contact with me? Just send email on vlad1sup@yandex.com!
 
 ## My skills:
